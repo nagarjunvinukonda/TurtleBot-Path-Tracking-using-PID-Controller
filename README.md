@@ -10,7 +10,7 @@ Results testing with Kp =0.5, Kd =0.01, Ki=0.0001
 
 Results with multi-goal points
 <p float="center">
-<img src="animations/multi_goal_points.gif" width="49%"/>
+<img src="animations/multi_goal_points.gif" width="49%" height = "49%"/>
 </p>
 
 
