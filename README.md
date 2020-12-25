@@ -8,14 +8,9 @@ Results testing with Kp =0.5, Kd =0.01, Ki=0.0001
 <img src="animations/PID_control.gif" width="49%"/>
 </p>
 
-Results testing on mutli goal points
-<p float="center">
-<img src="animations/PID_control.gif" width="49%"/>
-</p>
-
 Results with multi-goal points
 <p float="center">
-<img src="animations/Multiple_goals.gif" width="49%"/>
+<img src="animations/multi_goal_points.gif" width="49%"/>
 </p>
 
 
