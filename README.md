@@ -29,7 +29,7 @@ Once gazebo is launched, open another terminal, then
 source ./devel/setup.bash
 ```
 ```
-rosrun turtlebot3_controller controller_node
+rosrun pid_controller pid_controller
 ```
 
 # References:
