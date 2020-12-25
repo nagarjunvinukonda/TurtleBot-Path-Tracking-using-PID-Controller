@@ -17,7 +17,7 @@ Results with multi-goal points
 
 # Lauching simulation
 
-First download the repo and create a catkin workspace
+First create a catkin workspace and download the repo
 
 ```
  roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
