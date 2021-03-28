@@ -1,9 +1,12 @@
 # TurtleBot-Path-Tracking-using-PID-Controller
-This Node created can be used for turtlebot control of single and mutli point navigation. For which further we can determine steering angle at each instant of time. 
+# Overview
+The package is used for determining steering angle at each instant of time. Here the user flexibility for selecting single or multi-goal point control system. This package is tested both on simulation and hardware setup as shown below. The aim of this project is to develop a path tracking system for turtlebot. 
 
 # Results:
-
+<!--
 Results testing with Kp =0.5, Kd =0.01, Ki=0.0001
+-->
+Turtlebot PID controller results:
 <p float="center">
 <img src="animations/PID_control.gif" width="49%"/>
 </p>
